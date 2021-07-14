@@ -1,4 +1,4 @@
-- Find Your Best In Your Own Mind 🌍 
+- Find Your Best In Your Mind 🌍 
 - Backend Developer NodeJS - ExpressJS ... 🖥
 - alisivandiy@gmail.com - 0930 672 9022 🎙
 <!---
